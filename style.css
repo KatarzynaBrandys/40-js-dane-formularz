@@ -1,0 +1,28 @@
+body {
+    color:bisque;
+    background-color: teal;
+    font-size: large;
+    font-style: oblique;
+   }
+
+   button {
+       color:black;
+       background-color: grey;
+   }
+
+   p {
+       text-align: center;
+       font-size:larger;
+    }
+
+    #name {
+        color:lightsalmon;
+    }
+
+    #surname {
+        color: palevioletred;
+    }
+    
+    #phone {
+        color: purple;
+    }
